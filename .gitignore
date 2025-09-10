@@ -28,3 +28,10 @@ result/*.txt
 
 data/accidents.csv
 result/processed_accidents.csv
+# Ignore full datasets
+data/accidents.csv
+result/processed_accidents.csv
+
+# Python cache files
+__pycache__/
+*.pyc

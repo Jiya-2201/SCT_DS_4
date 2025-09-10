@@ -25,3 +25,6 @@ Thumbs.db
 
 # Results and figures (if you don’t want to track them)
 result/*.txt
+
+data/accidents.csv
+result/processed_accidents.csv
